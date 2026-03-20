@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thearchyhelios" alt="thearchyhelios" /></a> </p>
 
-- 🔭 I’m currently working on [Application pour Union des Chercheurs et Etudiants Chinois en France - Section Grenoble](https://thearchyhelios.com/article/2023-11-25-KaopuVIP-User-Manual/)
+- 🔭 I’m currently working on [CoBook](https://cobook.org)
 
 - 🌱 I’m currently learning **SwiftUI, C++**
 
